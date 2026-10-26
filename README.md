@@ -21,4 +21,5 @@ Computer Vision project to classify the big 5 animals (leopard, buffalo, lion, e
 
 <img width="1010" height="372" alt="image" src="https://github.com/user-attachments/assets/faffab2e-26db-4cc0-8e51-23ed8e9917bb" />
 
-More specifics on findings can be found in the report.
+## Note
+More details on the findings are in the report.
