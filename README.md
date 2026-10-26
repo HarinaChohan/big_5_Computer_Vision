@@ -1,5 +1,6 @@
 # big_5_Computer_Vision
-Computer Vision project to classify the big 5 animals (leopard, buffalo, lion, elephant, rhino) using ResNet50.
+Classify 6 flagship species (buffalo, elephant, rhino, zebra from the Ultralytics African Wildlife dataset, plus lion and leopard from the Kaggle Wildlife dataset). 
+Other wildlife dataset from Kaggle: https://www.kaggle.com/datasets/banuprasadb/wildlife-dataset/data
 
 <img width="993" height="320" alt="image" src="https://github.com/user-attachments/assets/db7fda91-39df-465f-b29b-ab934d02bcba" />
 
